@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#container1{
+    background: cadetblue;
+    width: 80%;
+    height: 100px;
+    margin: auto;
+    font-size: 11.5px;
+    padding: 10px 10px 10px 10px;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+}
+
+#container2{
+    background-image: url(./people.jpg);
+    height: 500px;
+    width: 80%;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+#content2{
+    background-color: rgba(243, 231, 231, 0.5);
+    height: 370px;
+    width: 250px;
+    float: right;
+    padding: 5px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+h3{
+    padding-bottom: 5px;
+}
+
+p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+select{
+    background-image: url(./arrow.jpg);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: center;
+}
+
+input, select{
+    height: 30px;
+    width: 80%;
+    padding: 3px;
+    box-sizing: border-box;
+    margin-top:5px ;
+}
+
+#container3{
+    margin: auto;
+    height: 200px;
+    width: 80%;
+    background: cadetblue;
+    text-align: center;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+img{
+    height: 90px;
+    margin-top: 20px;
+}
+
+
+
